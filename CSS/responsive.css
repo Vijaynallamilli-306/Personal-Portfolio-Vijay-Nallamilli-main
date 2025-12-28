@@ -1,0 +1,731 @@
+@media screen and (max-width :1349px) {
+    .container {
+        width: 1140px;
+    }
+
+    .intro-content {
+        flex: 0 0 545px;
+        max-width: 545px;
+    }
+
+    .profile-pic {
+        max-width: 460px;
+        flex: 0 0 460px;
+    }
+
+    .intro-content h1,
+    .intro-content p {
+        margin-bottom: 14px;
+    }
+
+    .intro-content h1 {
+        font-size: 61px;
+    }
+
+    .banner {
+    padding: 10px 0 0 0;
+    margin-top: 0px !important;
+}
+
+    .intro {
+        margin-bottom: 0px;
+    }
+
+    .aboutme-content {
+        max-width: 422px;
+        flex: 0 0 422px;
+    }
+
+    .workprocess-content {
+        max-width: 470px;
+        flex: 0 0 470px;
+    }
+
+    .workprocess-cards {
+    max-width: 100%;
+    flex: 0 0 100%;
+}
+
+    .text-content h2 {
+        margin-bottom: 21px;
+    }
+
+    .workprocess-content h2 {
+        font-size: 39px;
+    }
+
+    .text-content p {
+        max-width: 450px;
+        margin-bottom: 20px;
+    }
+
+    /* .portfolio-card {
+        max-width: 370px;
+    } */
+
+    .forcollab {
+        padding: 50px 0px;
+    }
+
+    .heading-paragraph h2 {
+        margin-bottom: 14px;
+    }
+
+    .heading-paragraph p {
+        margin-bottom: 20px;
+
+    }
+
+
+    .blog {
+        padding: 50px 0px 66px 0px;
+    }
+
+    .blog .heading-paragraph h2 {
+        color: #132238;
+        margin-bottom: 14px;
+    }
+
+    .blog .heading-paragraph p {
+        margin-bottom: 44px;
+    }
+
+    .blog-card {
+        max-width: 257px;
+    }
+
+    .skills {
+        padding: 100px 0;
+    }
+
+    .skill-text {
+        max-width: 470px;
+        flex: 0 0 470px;
+    }
+
+    .skill-cards {
+        max-width: 600px;
+        flex: 0 0 600px;
+    }
+
+    .testimonial-individual p {
+        margin-bottom: 20px;
+    }
+
+    .testimonial {
+        padding: 75px 0px 75px 0px;
+    }
+
+    .mydetails {
+        max-width: 426px;
+        flex: 0 0 426px;
+    }
+
+    .mydetails h3 {
+        margin-bottom: 16px;
+    }
+
+    .mydetails h3 {
+        font-family: "Work Sans";
+        font-weight: 600;
+        font-size: 32px;
+        line-height: 50px;
+        color: rgba(19, 34, 56, 1);
+    }
+
+    .mydetails p {
+        margin-bottom: 19px;
+    }
+
+    .detail-cards-total {
+        margin-bottom: 14px;
+    }
+
+    .client-details {
+        max-width: 460px;
+        flex: 0 0 460px;
+    }
+
+    .client-details p {
+        margin-bottom: 30px;
+    }
+
+    .input-div .budjet {
+        max-width: 165px;
+        flex: 0 0 165px;
+    }
+
+
+    .input-div .subject {
+        max-width: 243px;
+        flex: 0 0 243px;
+    }
+    
+.portfolio-card {
+    
+    flex: 0 0 calc(100%/2 - 24px);
+    
+}
+    
+}
+
+@media screen and (max-width : 1199px) {
+    .container {
+        width: 950px;
+    }
+
+    .profile-pic {
+        max-width: 424px;
+        flex: 0 0 424px;
+    }
+
+    .intro-content {
+        flex: 0 0 469px;
+        max-width: 469px;
+    }
+
+    .intro-content h1 {
+        line-height: 65px;
+        font-size: 53px;
+    }
+
+    .intro-content a {
+        margin-bottom: 53px;
+    }
+
+    .details p {
+        font-size: 16px;
+    }
+
+    .details {
+        background-color: #EDD8FF;
+        padding: 4px 0;
+        text-align: center;
+        flex: 0 0 calc(100% / 3 - 3px);
+        margin: 0 1px;
+    }
+
+    .details h4 {
+        margin-bottom: 8px;
+        font-size: 23px;
+        line-height: 31px;
+    }
+
+    .pic-details {
+        padding: 33px;
+        margin-bottom: -90px;
+    }
+
+    .aboutme-content h3 {
+        margin-bottom: 25px;
+        font-size: 32px;
+        line-height: 41px;
+    }
+
+    .workprocess-content {
+        max-width: 372px;
+        flex: 0 0 372px;
+    }
+
+    .card {
+        padding: 24px;
+    }
+
+    .card h5 {
+        margin-bottom: 6px;
+        font-size: 18px;
+    }
+
+    .portfolio-card-content {
+        padding: 18px;
+    }
+
+    .portfolio,
+    .skills {
+        padding: 85px 0px;
+    }
+
+    .skill-text {
+        max-width: 354px;
+        flex: 0 0 354px;
+    }
+
+    .skill-text p {
+        margin-bottom: 6px;
+    }
+
+    .skill-card {
+        padding: 22px;
+        margin-bottom: 15px;
+    }
+
+    .skill-cards {
+        max-width: 510px;
+        flex: 0 0 510px;
+    }
+
+    .testimonial {
+        padding: 50px 0;
+    }
+
+    .discuss-project-div {
+        padding: 44px;
+    }
+
+    .mydetails {
+        max-width: 360px;
+        flex: 0 0 360px;
+    }
+
+    .mydetails h3 {
+        font-size: 29px;
+        line-height: 38px;
+    }
+
+    .logo {
+        flex: 0 0 98px;
+        max-width: 99px;
+    }
+
+    .footer-con h4,
+    .header-con h4 {
+        font-size: 20px;
+    }
+
+    footer {
+        padding: 103px 0px 50px 0px;
+    }
+}
+
+@media screen and (max-width : 991px) {
+
+    .container {
+        width: 750px;
+    }
+
+    header .logo {
+        flex: 0 0 48px;
+        max-width: 48px;
+    }
+
+    .footer-con h4,
+    .header-con h4 {
+        font-size: 20px;
+    }
+
+    header nav ul {
+        gap: 24px;
+    }
+
+    header .purple-btn {
+        padding: 8px 18px 8px 18px;
+    }
+
+    .header-con nav ul li a {
+        font-size: 14px;
+    }
+
+
+
+
+
+    .intro-content {
+        flex: 0 0 315px;
+        max-width: 315px;
+    }
+
+    .intro-content h1 {
+        line-height: 46px;
+        font-size: 35px;
+    }
+
+    .intro-content p {
+        margin-bottom: 14px;
+        font-size: 16px;
+    }
+
+    .profile-pic {
+        max-width: 372px;
+        flex: 0 0 372px;
+    }
+
+    .aboutme-pic {
+        height: 364px;
+        max-width: 311px;
+        flex: 0 0 468px;
+    }
+
+    .aboutme-content {
+        max-width: 345px;
+        flex: 0 0 344px;
+    }
+
+    .aboutme-content h3 {
+        margin-bottom: 14px;
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .social-icons {
+        max-width: 264px;
+        flex: 0 0 264px;
+        padding: 5px;
+        margin-bottom: -19px;
+    }
+
+    .icons {
+        width: 35px;
+        height: 35px;
+    }
+
+    .workprocess {
+        padding: 140px 0px 75px 0px;
+    }
+
+    .workprocess-content {
+        max-width: 275px;
+        flex: 0 0 275px;
+    }
+
+    .workprocess-content h2 {
+        font-size: 33px;
+    }
+
+    .card {
+        padding: 14px;
+        flex: 0 0 calc(100% /3 - 24px);
+    }
+
+    .workprocess-cards {
+        max-width: 100%;
+        flex: 0 0 100%;
+        margin: 0px auto;
+    }
+
+    .card p {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .card-icon {
+        height: 50px;
+        width: 50px;
+        margin-bottom: 14px;
+    }
+
+    .portfolio-card {
+        max-width: 100%;
+        flex: 0 0 calc(100%/1 - 12px);
+        margin: 24px 6px;
+    }
+
+    .portfolio-card p {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .portfolio-cards {
+        margin: 0px -6px;
+    }
+
+    .skill-text {
+        max-width: 261px;
+        flex: 0 0 261px;
+    }
+
+    .skill-text h2 {
+        margin-bottom: 24px;
+    }
+
+    .skill-text a {
+        margin-top: 18px;
+    }
+
+    .skill-cards {
+        max-width: 440px;
+        flex: 0 0 440px;
+    }
+
+    .testimonials {
+
+        max-width: 550px;
+
+    }
+
+    .mydetails {
+        max-width: 300px;
+        flex: 0 0 300px;
+    }
+
+    .client-details {
+        max-width: 370px;
+        flex: 0 0 370px;
+    }
+
+    .input-div .budjet {
+        max-width: 135px;
+        flex: 0 0 135px;
+    }
+
+    .input-div .subject {
+        max-width: 199px;
+        flex: 0 0 199px;
+    }
+
+    form .purple-btn {
+        padding: 7px 54px 7px 17px;
+    }
+
+    footer .logo {
+        flex: 0 0 125px;
+        max-width: 125px;
+    }
+
+    footer nav ul {
+        gap: 20px;
+    }
+
+    footer p {
+        font-size: 12px;
+    }
+
+    .portfolio-img {
+    width: 100%;
+}
+}
+
+@media screen and (max-width : 767px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+
+/* hamb  */
+.menu-icon i,.mob-menu{
+    display: block;
+}
+
+ .menu-list.active {
+    display: block;
+  }
+.menu-list {
+    position: absolute;
+    top: 85px;
+    left: 0;
+    right: 0;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    z-index: 10;
+}
+
+  .menu-list ul {
+    list-style: none;
+    padding: 10px 20px;
+    margin: 0;
+  }
+
+  .menu-list ul li {
+    margin: 10px 0;
+  }
+
+  .menu-list ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+
+
+    header nav {
+        display: none;
+    }
+
+    .intro-content,
+    .profile-pic,
+    .workprocess-content,
+    .skill-text,
+    .skill-cards,
+    .mydetails,
+    .client-details,
+    footer .logo {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .intro-content h1 {
+        font-size: 23px;
+    }
+
+    .intro-content h1,
+    .intro-content p {
+        margin-bottom: 5px;
+    }
+
+    .intro-content a {
+        margin-bottom: 35px;
+    }
+
+    .details h4 {
+        margin-bottom: -11px;
+        font-size: 20px;
+    }
+
+    .details p {
+        margin-bottom: 14px;
+        font-size: 10px;
+    }
+
+    .intro {
+        margin-bottom: 0px !important;
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+
+    .pic-details,
+    .workprocess-content-card,
+    .skill-text-card,
+    .discuss-project-div,
+    .footer-con {
+        flex-direction: column;
+    }
+
+    .pic-details {
+    margin-bottom: -15px;
+}
+.card{
+    flex: 0 0 calc(100% / 2 - 24px);
+    margin:10px auto
+}
+
+    .aboutme-pic {
+        margin-bottom: 50px;
+    }
+
+    .workprocess-content {
+        text-align: center;
+        padding: 90px 0px;
+    }
+
+    .workprocess {
+        padding: 61px 0px 75px 0px;
+    }
+
+    .portfolio-card {
+        max-width: 100%;
+        flex: 0 0 calc(100%/1 - 12px);
+        margin: 24px 6px;
+    }
+
+    .heading-paragraph h2 {
+        margin-bottom: 14px;
+        font-size: 33px;
+        line-height: 46px;
+    }
+
+    .blog {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .skill-text {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .mydetails {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    footer .logo,
+    footer nav ul {
+        margin-bottom: 20px;
+    }
+    .portfolio-img {
+    width: 100%;
+}
+}
+
+@media screen and (max-width : 479px) {
+    .global-btn {
+        display: flex;
+    }
+
+    .gbl-purbtn {
+        padding: 0 18px;
+        margin-right: 10px;
+    }
+
+    .transparent-btn {
+        padding: 0 17px 0 49px;
+        background-position: left 12px center;
+    }
+    .portfolio-card {
+    max-width: 100%;
+    flex: 0 0 100%;
+    margin: 24px 6px;
+}
+.input-div {
+    flex-direction: column;
+}
+.input-div .budjet,.input-div .subject {
+    max-width: 100%;
+    flex: 0 0 100%;
+}
+.card{
+    flex: 0 0 calc(100% / 1 - 24px);
+}
+.portfolio-img {
+    width: 355px;
+}
+.social-icon-img {
+    height: 185px;
+    width: 28px;
+}
+.linkdin{
+    width: 54px;
+}
+#linkdin-icon {
+    right: 3px;
+}
+.github {
+    width: 42px;
+}
+#github-icon {
+    right: 8px;
+}
+.whatsapp {
+    width: 41px;
+}
+#whatsapp-icon {
+    right: 9px;
+    bottom: 165px;
+ }
+ #github-icon {
+    bottom: 220px;
+}
+#linkdin-icon {
+    bottom: 320px;
+}
+.gmail {
+    width: 26px;
+}
+#gmail-icon {
+    bottom: 280px;
+}
+.footer-con nav {
+    margin-right: 0px;
+}
+.footer-con nav li a{
+    font-size: 11px;
+}
+footer .logo, footer nav ul {
+    margin: 20px 0px;
+}
+#whatsapp-icon {
+    right: 9px;
+    bottom: 215px;
+}
+.portfolio-img {
+    width: 100%;
+}
+}
